@@ -1,5 +1,5 @@
 # frontend-prueba01
 Este es un repositorio de prueba publico
-Queremos ver los efectos.
+1.Queremos ver los efectos.
 
-Este es un segundo cambio que hemos efectuado
+2. Este es un segundo cambio que hemos efectuado
